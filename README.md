@@ -30,6 +30,8 @@ The implementation records:
 ## Setup
 Follow these steps to set up and run the project locally:
 
+
+0. **Make sure that Go 1.xx or higher is installed on your device**:
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/Salim-Alsaeh/PQC-Implementation-using-Cloudflare-CIRCL.git
